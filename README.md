@@ -1,4 +1,4 @@
-# bolum8drummachine
+# Simpledrummachine
 
 A new Flutter application.
 
